@@ -1,3 +1,12 @@
 jupyter
 matplotlib
 bcolz
+torch<0.4
+torchtext>=0.2.3
+torchvision>=0.2.0
+keras
+pandas
+scikit-learn
+gensim
+nltk
+keras_tqdm
